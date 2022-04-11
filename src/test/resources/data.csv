@@ -1,0 +1,6 @@
+"Registered, under limit", 100060, true, 30
+"Registered, over limit", 100000060, true, 500
+"Registered, amount = 0", 0, true, 0
+"Unregistered, under limit", 100060, false, 10
+"Unregistered, over limit", 10000060, false, 500
+"Unregistered, amount = 0", 0, false, 0
